@@ -172,4 +172,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Preview**: VS Code with Markdown All in One extension
 - **Badge Generator**: [Shields.io](https://shields.io)
 
-> **Pro Tip**: Use GitHub's **Preview** tab frequently while editing to catch formatting issues early!
+
